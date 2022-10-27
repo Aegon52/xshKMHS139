@@ -1,0 +1,16 @@
+{
+  "name": "KSSuIFMLs7hhBym",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "ทุนฟรี ไม่ต้องฝาก ไม่ต้องแชร์ 2022",
+  "keywords": [
+    "{ทุนฟรี}",
+    "{ไม่ต้องฝาก}",
+    "{ไม่ต้องแชร์ 2022}"
+  ],
+  "repository": "https://github.com/Aegon52/xshKMHS139.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
